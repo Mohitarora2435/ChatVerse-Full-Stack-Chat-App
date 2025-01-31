@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About This Project:
 ChatVerse - Real-time Chat Application 🚀<br>ChatVerse is a real-time chat application built with MERN stack (MongoDB, Express, React, Node.js) and Socket.io for instant messaging. It supports:<br><br>✅ User Authentication (JWT-based)<br>✅ 1-on-1 Messaging with real-time updates<br>✅ Image Uploads via Cloudinary<br>✅ Dark/Light Theme Support<br>✅ Responsive UI with TailwindCSS<br><br>Seamlessly chat with friends and enjoy a smooth, fast, and secure messaging experience. 🌍💬
 
 
